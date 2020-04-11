@@ -1,0 +1,1 @@
+CREATE DATABASE Chris_Bolton_Blog;
